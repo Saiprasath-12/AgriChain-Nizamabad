@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-turmeric-field",
+      "description": "A vast turmeric field under a bright sun, symbolizing growth and prosperity.",
+      "imageUrl": "https://images.unsplash.com/photo-1638399442081-232b5355a7bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0dXJtZXJpYyUyMGZpZWxkfGVufDB8fHx8MTc2MTQyMDIxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "turmeric field"
+    },
+    {
+      "id": "farmer-testimonial-1",
+      "description": "Portrait of a smiling Indian male farmer.",
+      "imageUrl": "https://images.unsplash.com/photo-1620901433789-1d2f85a93653?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpbmRpYW4lMjBmYXJtZXJ8ZW58MHx8fHwxNzYxMzYzODUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian farmer"
+    },
+    {
+      "id": "farmer-testimonial-2",
+      "description": "Portrait of a confident Indian female farmer.",
+      "imageUrl": "https://images.unsplash.com/photo-1607189200597-4d0923ef98c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbmRpYW4lMjB3b21hbnxlbnwwfHx8fDE3NjE0MTM4NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian woman"
+    },
+    {
+      "id": "farmer-testimonial-3",
+      "description": "Portrait of a young Indian male farmer looking at his phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1551628723-952088378fd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYW4lMjBwaG9uZXxlbnwwfHx8fDE3NjE0MjAyMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man phone"
+    },
+    {
+      "id": "about-us-market",
+      "description": "A bustling agricultural market in India.",
+      "imageUrl": "https://images.unsplash.com/photo-1728325444513-f6f7bdd0950a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxpbmRpYW4lMjBtYXJrZXR8ZW58MHx8fHwxNzYxNDIwMjE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian market"
+    },
+    {
+      "id": "blockchain-visualization",
+      "description": "Abstract digital visualization of a blockchain.",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkaWdpdGFsJTIwbmV0d29ya3xlbnwwfHx8fDE3NjEzMDUzNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital network"
+    }
+  ]
+}
